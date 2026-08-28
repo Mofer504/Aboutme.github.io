@@ -1,2 +1,2 @@
 # Aboutme.github.io
-short just to tell me what the website might be
+First website creating using github and intellij 
