@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8a7ab50-1e24-4579-9e3e-e86789b3ab51" name="Changes" comment="New html tingy" />
+    <list default="true" id="c8a7ab50-1e24-4579-9e3e-e86789b3ab51" name="Changes" comment="new updates">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,6 +70,11 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\moise\IdeaProjects\Aboutme.github.io\.idea" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -102,7 +110,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updating README.md to include description" />
     <MESSAGE value="New html tingy" />
-    <option name="LAST_COMMIT_MESSAGE" value="New html tingy" />
+    <MESSAGE value="new updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="new updates" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
