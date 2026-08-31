@@ -1,0 +1,23 @@
+
+        h1,p,table {color: white; text-align: center;} /* Set the color of h1 and p to white and center them */
+        body {background-color: black; /* Set the whole page background to black */}
+        nav {
+            background-color: grey; /* or any color you like */
+            padding: 15px 0;        /* optional: adds space above and below links*/
+            text-align:center;      /* centers the links */
+        }
+        nav a {
+            background-color: transparent; /* keeps links' background transparent */
+            color: white;                /* ensures link text stays white */
+            margin: 0 10px;                /* space between links */
+            text-decoration: none;         /* removes underline */
+            font-weight: bold;             /* makes links bold */
+        }
+        table {
+            margin: 0 auto;              /* Center the table */
+            border-spacing: 30px 10px;   /* Horizontal and vertical spacing between td */
+        }
+        td {
+            padding: 15px;               /* Space inside each cell */
+            vertical-align: top;         /* Align content to the top */
+        }
