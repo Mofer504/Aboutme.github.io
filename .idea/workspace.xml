@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8a7ab50-1e24-4579-9e3e-e86789b3ab51" name="Changes" comment="new updates">
-      <change afterPath="$PROJECT_DIR$/.idea/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/css part.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/css part.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/skills.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/skills.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,11 +59,13 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "JavaScript Debug.Index.html.executor": "Run",
     "JavaScript Debug.about.html.executor": "Run",
+    "JavaScript Debug.hobbies.html.executor": "Run",
     "JavaScript Debug.skills.html.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
