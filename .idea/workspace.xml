@@ -2,7 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8a7ab50-1e24-4579-9e3e-e86789b3ab51" name="Changes" comment="new updates">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.doc/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.doc/Aboutme.github.io.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.doc/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.doc/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.doc/css part.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.doc/facts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.doc/hobbies.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.doc/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.doc/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.doc/picsforhtml/Moises-mateo-sophi.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.doc/picsforhtml/bebe.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.doc/picsforhtml/estadio.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.doc/picsforhtml/fam.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.doc/picsforhtml/fellaini.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.doc/picsforhtml/ghost-ghost-cod.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.doc/picsforhtml/hincapie.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.doc/picsforhtml/moises grad.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.doc/picsforhtml/ted.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.doc/picsforhtml/tegus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.doc/skills.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.doc/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Aboutme.github.io.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/css part.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/facts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/hobbies.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/picsforhtml/Moises-mateo-sophi.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/picsforhtml/bebe.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/picsforhtml/estadio.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/picsforhtml/fam.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/picsforhtml/fellaini.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/picsforhtml/ghost-ghost-cod.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/picsforhtml/hincapie.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/picsforhtml/moises grad.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/picsforhtml/ted.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/picsforhtml/tegus.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/skills.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
